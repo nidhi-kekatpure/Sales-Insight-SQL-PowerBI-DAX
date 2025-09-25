@@ -79,10 +79,3 @@ The analysis includes queries for:
 - **Power BI** - Interactive dashboard and visualizations
 - **Database** - Sales data storage and management
 
-## Contributing
-
-Feel free to fork this project and submit pull requests for improvements to the SQL queries or Power BI visualizations.
-
-## License
-
-This project is open source and available under the MIT License.
